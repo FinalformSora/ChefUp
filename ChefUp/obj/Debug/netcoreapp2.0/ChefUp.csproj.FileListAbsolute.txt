@@ -1,0 +1,11 @@
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\bin\Debug\netcoreapp2.0\ChefUp.deps.json
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\bin\Debug\netcoreapp2.0\ChefUp.runtimeconfig.json
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\bin\Debug\netcoreapp2.0\ChefUp.runtimeconfig.dev.json
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\bin\Debug\netcoreapp2.0\ChefUp.dll
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\bin\Debug\netcoreapp2.0\ChefUp.pdb
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\obj\Debug\netcoreapp2.0\ChefUp.csprojResolveAssemblyReference.cache
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\obj\Debug\netcoreapp2.0\ChefUp.csproj.CoreCompileInputs.cache
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\obj\Debug\netcoreapp2.0\ChefUp.AssemblyInfoInputs.cache
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\obj\Debug\netcoreapp2.0\ChefUp.AssemblyInfo.cs
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\obj\Debug\netcoreapp2.0\ChefUp.dll
+c:\users\nsirimongkol\source\repos\ChefUp\ChefUp\obj\Debug\netcoreapp2.0\ChefUp.pdb

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ChefUp: @ViewBag.Title</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header class="container-fluid">
+        <div class="navbar-header">
+            <div class="navbar-brand">ChefUp!</div>
+            <button class="navbar-toggle" data-toggle="collapse" data-target="#menu">&#9776;</button>
+        </div>
+        <div id="menu" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li><a asp-controller="App" asp-action="Index">Home</a></li>
+                <li><a asp-controller="App" asp-action="Contact">Contact Me</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <section>
+        @RenderBody()
+    </section>
+
+    <footer class="container">
+        <div class="text-center">Copyright ChefUp 2018</div>
+    </footer>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/lib/jQuery/dist/jquery.min.js"></script>
+    <script src="~/js/index.js"></script>
+    @RenderSection("scripts", false)
+</body>
+</html>
