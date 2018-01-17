@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\nsirimongkol\\source\\repos\\ChefUp\\ChefUp\\ChefUp.csproj",
+      "projectUniqueName": "C:\\Users\\nsirimongkol\\source\\repos\\ChefUp\\ChefUp\\ChefUp.csproj",
       "projectName": "ChefUp",
-      "projectPath": "c:\\users\\nsirimongkol\\source\\repos\\ChefUp\\ChefUp\\ChefUp.csproj",
+      "projectPath": "C:\\Users\\nsirimongkol\\source\\repos\\ChefUp\\ChefUp\\ChefUp.csproj",
       "packagesPath": "C:\\Users\\nsirimongkol\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\nsirimongkol\\source\\repos\\ChefUp\\ChefUp\\obj\\",
+      "outputPath": "C:\\Users\\nsirimongkol\\source\\repos\\ChefUp\\ChefUp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
